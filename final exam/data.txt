@@ -1,0 +1,6 @@
+
+Name: hetvi 
+course=0 
+
+Name: bca 
+course=0 
